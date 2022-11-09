@@ -15,3 +15,4 @@ You can create your own link-in-bio page for free without notifying me by forkin
 
 - Add a link to [my homepage](https://www.craftz.dog/) anywhere
 - Do not use the Japanese garden picture
+# LinkinBio
